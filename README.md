@@ -1,4 +1,5 @@
 
+
 # About Querix LTD. Projects, Products, and Axion Client
 
 Querix LTD. is dedicated to Minecraft-related projects, utilizing Java, C#, C++, and C. Our mission is to make the game more enjoyable, portable, fair, and lightweight.
@@ -156,7 +157,7 @@ Files outside the client environment
 > Axion Client is not spyware and does not track users personally.
 
 
-
+> We don't like any malware or Serval around here!
 
 ---
 
