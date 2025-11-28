@@ -23,6 +23,8 @@ Axion Client is not affiliated with any other similarly named clients. We respec
 Safety Notice:
 Querix employees or official team members will never:
 
+Ask or want anything about Banking Accounts
+
 Request your Microsoft account credentials
 
 Ask you to download software from unofficial sources
@@ -34,6 +36,13 @@ Your privacy and safety are our top priorities.
 
 Issued by: QuerixNRC – Axion Client Development & Security Team
 
+Querix employees or official team members might ask for:
+
+Your phone number that's connected to your Axion Account
+
+Your E-mail adress that's connected to your Axion Account 
+
+Your IGN or your AxA UUID
 
 ---
 
