@@ -20,8 +20,8 @@ We continuously strive to enhance the Minecraft experience while maintaining fai
 Clarification Regarding Similar Clients:
 Axion Client is not affiliated with any other similarly named clients. We respect other projects and focus solely on improving user experience within our ecosystem.
 
-Safety Notice:
-Querix employees or official team members will never:
+**Safety Notice:
+Querix employees or official team members will never**:
 
 Ask or want anything about Banking Accounts
 
@@ -33,7 +33,7 @@ Request remote access or screen sharing
 
 
 
-Querix employees or official team members might ask for:
+**Querix employees or official team members might ask for**:
 
 Your phone number that's connected to your Axion Account
 
