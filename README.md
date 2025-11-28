@@ -1,8 +1,8 @@
 
 
-# About Querix LTD. Projects, Products, and Axion Client
+# About Querix Projects, Products, and Axion Client
 
-Querix LTD. is dedicated to Minecraft-related projects, utilizing Java, C#, C++, and C(Html, CSS and JS for testing). Our purpose is to make the game more enjoyable, portable, fair, and lightweight.
+Querix is dedicated to Minecraft-related projects, utilizing Java, C#, C++, and C(Html, CSS and JS for testing). Our purpose is to make the game more enjoyable, portable, fair, and lightweight.
 
 Unlike most custom clients that operate only on the client side, we provide:
 
@@ -21,7 +21,7 @@ Clarification Regarding Similar Clients:
 Axion Client is not affiliated with any other similarly named clients. We respect other projects and focus solely on improving user experience within our ecosystem.
 
 Safety Notice:
-Querix LTD. employees will never:
+Querix employees or official team members will never:
 
 Request your Microsoft account credentials
 
@@ -32,7 +32,7 @@ Request remote access or screen sharing
 
 Your privacy and safety are our top priorities.
 
-Issued by: Querix LTD. – Axion Client Development & Security Team
+Issued by: QuerixNRC – Axion Client Development & Security Team
 
 
 ---
