@@ -32,7 +32,7 @@ Request remote access or screen sharing
 
 Your privacy and safety are our top priorities.
 
-Issued by: Querix LTD. – Axion Client Development & Security Teams
+Issued by: Querix LTD. – Axion Client Development & Security Team
 
 
 ---
@@ -60,7 +60,6 @@ Selling, distributing, or modifying Axion Client without authorization is prohib
 Reverse engineering, cracking, or developing exploits is strictly forbidden
 
 Users may not modify the client to cheat, harm other players, or bypass security
-
 
 
 ---
