@@ -30,12 +30,7 @@ Request your Microsoft account credentials
 Ask you to download software from unofficial sources
 
 Request remote access or screen sharing
-
-
-Your privacy and safety are our top priorities.
-
-Issued by: QuerixNRC – Axion Client Development & Security Team
-
+---
 Querix employees or official team members might ask for:
 
 Your phone number that's connected to your Axion Account
@@ -43,6 +38,10 @@ Your phone number that's connected to your Axion Account
 Your E-mail adress that's connected to your Axion Account 
 
 Your IGN or your AxA UUID
+
+Your privacy and safety are our top priorities.
+
+Issued by: QuerixNRC – Axion Client Development & Security Team
 
 ---
 
