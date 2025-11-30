@@ -1,4 +1,4 @@
-#About Querix Projects, Products, and Axion Client
+# About Querix Projects, Products, and Axion Client
 
 Querix focuses on Minecraft-related projects using Java, C#, C++, and C. (HTML, CSS, and JavaScript are used only for internal prototype and animation testing.)
 Our mission is to make the game more enjoyable, lightweight, secure, portable, and fair.
