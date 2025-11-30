@@ -92,8 +92,10 @@ Users are responsible for keeping the client up to date
 
 QuerixNRC may unilaterally update the ToS
 
+---
+Unofficial Distribution Disclaimer
 
-
+> The Axion Client is only considered official when downloaded from verified distribution channels recognized by our team (GitHub or AxionNRC.com). We are not responsible for any damages, security breaches, malware infections, account theft, data loss, incorrect bans, or gameplay issues caused by downloading the client or any related files from unofficial, third-party, or unverified websites. Any software obtained outside our verified ecosystem is not guaranteed to be safe, functional, or legitimate, and usage of such versions is entirely at the user's own risk.
 ---
 
 5. Server Compatibility
