@@ -1,256 +1,291 @@
+About Querix Projects, Products, and Axion Client
+
+Querix focuses on Minecraft-related projects using Java, C#, C++, and C. (HTML, CSS, and JavaScript are used only for internal prototype and animation testing.)
+Our mission is to make the game more enjoyable, lightweight, secure, portable, and fair.
+
+Unlike typical custom clients that work solely on the user device, Axion Client offers additional ecosystem-level systems, including:
+
+A dedicated server for ecosystem participants
+
+The proprietary Axion AntiCheat system
+
+AxA (Axion Authentication Authority) for secure client verification
+
+Partnerships and collaborations with selected servers
 
 
-# About Querix Projects, Products, and Axion Client
+Axion Client is not affiliated with any similarly named projects. We respect other client developers and do not claim association with them.
 
-Querix is dedicated to Minecraft-related projects, utilizing Java, C#, C++, and C(Html, CSS and JS for testing). Our purpose is to make the game more enjoyable, portable, fair, and lightweight.
+Safety Notice — Official Team Will Never:
 
-Unlike most custom clients that operate only on the client side, we provide:
+Querix employees or verified staff members will never:
 
-Our own server for ecosystem participants
+Request banking or financial account information
 
-Proprietary Axion AntiCheat system
+Ask for your Microsoft account password or credentials
 
-AxA (Axion Authentication Authority) for secure client authentication
+Ask you to install or download software from unofficial sources
 
-Collaborations with select partnered servers
+Request remote desktop access or screen sharing
 
-
-We continuously strive to enhance the Minecraft experience while maintaining fair gameplay and security.
-
-Clarification Regarding Similar Clients:
-Axion Client is not affiliated with any other similarly named clients. We respect other projects and focus solely on improving user experience within our ecosystem.
-
-**Safety Notice:
-Querix employees or official team members will never**:
-
-Ask or want anything about Banking Accounts
-
-Request your Microsoft account credentials
-
-Ask you to download software from unofficial sources
-
-Request remote access or screen sharing
+Encourage or tolerate unfair gameplay, cheating, or malicious software usage
 
 
+Verified Staff Members May Ask For (When Necessary):
 
-**Querix employees or official team members might ask for**:
+Only for identity verification and support purposes, Querix staff may request:
 
-Your phone number that's connected to your Axion Account
+The phone number linked to your Axion Account
 
-Your E-mail adress that's connected to your Axion Account 
+The email address registered to your Axion Account
 
-Your IGN or your AxA UUID
+Your Minecraft IGN or AxA UUID
 
-Your privacy and safety are our top priorities.
+Your AxA (Sora) ecosystem device ID or UUID
+
+
+Your security and privacy are our highest priority.
 
 Issued by: QuerixNRC – Axion Client Development & Security Team
 
----
-
-Axion Client – Terms of Service (ToS)
-
-Effective Date: 2025
-
 
 ---
 
-1. General Provisions
+Axion Client — Terms of Service (ToS)
 
-Axion Client is a custom Minecraft client developed and maintained by QuerixNRC.
-By downloading or using the client, you agree to these terms.
-The software is provided for personal and entertainment purposes only.
+Effective Year: 2025
+
+1. General Terms
+
+Axion Client is developed and maintained by QuerixNRC
+
+By downloading or using Axion Client, you agree to this ToS and the Privacy Policy
+
+The software is provided only for personal and entertainment use
+
+
+2. Usage Restrictions
+
+The following actions are strictly forbidden:
+
+Selling or distributing the client or its protected components without permission
+
+Modifying, cracking, bypassing, or tampering with security modules
+
+Reverse-engineering or developing exploits targeting Axion Client or its ecosystem
+
+Injecting cheats, macros, automation, malware, or unfair advantages
+
+Attempting server disruption, packet abuse, or ecosystem damage
+
+
+3. Account Liability
+
+Users are fully responsible for all actions taken on their Minecraft accounts
+
+Account theft, sharing, or unauthorized access are not the responsibility of QuerixNRC
+
+
+4. Updates
+
+The client may update automatically or periodically
+
+Users are responsible for staying on the latest version
+
+QuerixNRC may update the ToS unilaterally when required
+
 
 
 ---
 
-2. Usage Rights and Restrictions
-
-Selling, distributing, or modifying Axion Client without authorization is prohibited
-
-Reverse engineering, cracking, or developing exploits is strictly forbidden
-
-Users may not modify the client to cheat, harm other players, or bypass security
-
-
----
-
-3. Account Responsibility
-
-Users are fully responsible for all actions on their Minecraft accounts
-
-Unauthorized access, account sharing, or stolen accounts are not the responsibility of QuerixNRC
-
-
-
----
-
-4. Updates and Changes
-
-Axion Client may be updated regularly
-
-Users are responsible for keeping the client up to date
-
-QuerixNRC may unilaterally update the ToS
-
----
 Unofficial Distribution Disclaimer
 
-> The Axion Client is only considered official when downloaded from verified distribution channels recognized by our team (GitHub or AxionNRC.com). We are not responsible for any damages, security breaches, malware infections, account theft, data loss, incorrect bans, or gameplay issues caused by downloading the client or any related files from unofficial, third-party, or unverified websites. Any software obtained outside our verified ecosystem is not guaranteed to be safe, functional, or legitimate, and usage of such versions is entirely at the user's own risk.
+> Axion Client is considered official only when downloaded from verified channels recognized by our team (e.g., GitHub or AxionNRC.com).
+We are not responsible for security risks, data loss, gameplay issues, malware infections, incorrect bans, or account theft caused by downloading the client or related files from unofficial or unverified sources.
+Software obtained outside our ecosystem is not guaranteed to be safe or functional, and the user assumes all risks when using such versions.
+
+
+
+
 ---
 
 5. Server Compatibility
 
-Some servers may restrict access due to policy differences
+Some servers may restrict or block access due to policy differences
 
-Incompatibility results from server policies or Axion Client rules
-
-Users should comply with both server rules and Axion Client’s guidelines
+Users must follow both server-specific rules and Axion Client guidelines
 
 
 
 ---
 
-6. Disclaimer
+6. Warranty & Liability Disclaimer
 
-Software is provided “as-is”
+The software is provided “as-is”
 
-QuerixNRC is not responsible for data loss, in-game bans, server restrictions, or technical issues
+QuerixNRC is not liable for:
+
+in-game bans, account restrictions, data loss
+
+client-side errors, crashes, performance issues
+
+server policies, incompatibilities, or connection denial
+
 
 
 
 ---
 
-7. Open Source & Proprietary Systems
+7. Open Source & Proprietary Modules
 
 Axion Client is not fully open source
 
-Security modules, AxA authentication, and anti-tampering mechanisms remain proprietary
+The following remain proprietary:
 
-Select public prototypes (e.g., HTML-based animation tests) may be shared for development transparency
+AxA authentication
 
+Anti-tamper and integrity modules
 
-
----
-
-Axion Client – Privacy Policy
-
-Effective Date: 2025
+Axion AntiCheat logic
 
 
----
-
-1. Data Collected (Anonymous/Minimal)
-
-Device hash, client version, license verification status
-
-Runtime anomaly summaries (for Axion AntiCheat)
-
-All collected data is not personally identifiable
-
-
-Purpose:
-Device-binding, license verification, fair-play detection, and authentication via AxA system
-
-
----
-
-2. Data Not Collected
-
-Names, IP addresses, GPS/location
-
-Full keyboard input
-
-Microphone/camera access
-
-Files outside the client environment
-
-
-> Axion Client is not spyware and does not track users personally.
-
-
-> We don't like any malware or Serval around here!
-
----
-
-3. Regional Compliance
-
-GDPR (EU), KVKK (Turkey), and other regional privacy laws are respected
-
-Data is anonymized and only used for security, licensing, and anti-cheat verification
+Some prototype test assets (e.g., HTML animation previews) may be shared publicly for transparency but are not part of the core client.
 
 
 
 ---
 
-4. Data Storage & Usage
+Axion Client — Privacy Policy
 
-Personal settings and passwords are stored locally
+Effective Year: 2025
 
-Device verification data is transmitted to partnered servers only for authentication
+1. Data We Collect (Minimal & Anonymous)
 
-Data is not permanently stored on external servers
+Device hash
+
+Client version and build information
+
+License verification status
+
+Non-identifiable runtime anomaly summaries (for AntiCheat evaluation only)
+
+
+> All collected data is anonymous and not personally identifiable.
+
+
+
+Purpose
+
+Device-binding
+
+License validation
+
+Gameplay fairness and cheat detection
+
+Authentication through the AxA system
+
+
+2. Data We Do Not Collect
+
+Axion Client will never request or access:
+
+Full names
+
+IP addresses
+
+GPS or precise location information
+
+Total keyboard activity or typed messages
+
+Microphone or camera access
+
+Files outside the Axion Client environment
+
+
+> Axion Client is not spyware, and we do not track users personally.
+
 
 
 
 ---
 
-5. Security
+3. Local Storage & Encryption
 
-Passwords are encrypted or hashed
+Personal settings are stored locally in config.txt
 
-Anti-tamper mechanisms protect integrity
+Passwords are hashed or encrypted
 
-Updates are signed and verified
+We do not permanently store personal data on external servers
 
-
-
----
-
-6. User Rights
-
-Delete local configuration to remove all data
-
-Uninstall client at any time
-
-Review policy changes via launcher notifications
+Only temporary authentication verification may occur with partner servers when logging in
 
 
 
 ---
 
-Axion Client – User Experience Guidelines
+4. Security
 
-Simple and minimalistic interface
+To protect our ecosystem:
 
-Easy management of mod settings via config.txt
+Updates are digitally signed and verified
 
-FPS and latency optimizations for smooth gameplay
+Client files are integrity-protected using anti-tamper measures
 
-Visual customization for mods and themes
-
-Feedback incorporated into development
+Anti-cheat monitoring works on runtime behavior summaries instead of personal tracking
 
 
 
 ---
 
-QuerixNRC Security – AntiCheat & File Protection Overview
+5. User Rights
 
-Protects client integrity and fair play
+You may at any time:
 
-Detects cheat software, automation tools, and unauthorized modification
+Delete local config files to remove all stored data
 
-Device-binding and license verification via AxA
+Uninstall the client without restriction
 
-Local telemetry summaries anonymized
-
-Server-side verification for sensitive operations
-
-Digital signing, obfuscation, and runtime anti-tamper layers
-
-Limited data collection to ensure privacy
-
-Secure updates, rollback procedures, and monitoring for false positives
+View updated policy notifications through the launcher
 
 
-> Axion Client’s security ensures fair gameplay while respecting user privacy. Detailed internal designs are restricted to authorized personnel.
+
+---
+
+Axion Client — User Experience Guidelines
+
+Minimal and optimized interface design
+
+Customizable mod panels and themes
+
+Easy toggleable mod system using config.txt (1 = enabled / 0 = disabled)
+
+FPS and latency-focused optimizations
+
+Community feedback incorporated into development
+
+
+
+---
+
+AntiCheat & File Protection Overview
+
+Protects gameplay fairness and client integrity
+
+Detects cheats, automation tools, and unauthorized modification attempts
+
+Uses device-binding & digital telemetry summaries, anonymized by design
+
+Internal security architecture details are disclosed only to authorized team members
+
+
+
+---
+
+Agreement Notice
+
+> Downloading, using or even just launching the software once means that the Terms of Service (ToS) and Privacy Policy are read and accepted.
+
+
+- Axion Security, Privacy & Legality Team
+
+---
