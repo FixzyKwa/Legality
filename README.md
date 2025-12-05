@@ -283,9 +283,9 @@ Internal security architecture details are disclosed only to authorized team mem
 
 Agreement Notice
 
-> Downloading, using or even just launching the software once means that the Terms of Service (ToS) and Privacy Policy are read and accepted.
+> Downloading, using or even just launching the software once means that the Terms of Service (ToS) and Privacy Policy are read and accepted. **Do NOT Disturb to ask for rule breaker features**
 
 
 - Axion Security, Privacy & Legality Team
-
+|2025, DEC 5|
 ---
